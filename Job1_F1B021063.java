@@ -1,5 +1,5 @@
 
-package newpackage1;
+package P2;
 
 public class jobsatu { 
     String x ; 
