@@ -2,13 +2,13 @@
 package newpackage1;
 
 public class jobsatu { 
-    int x; 
+    String x ; 
 
 public jobsatu() {
 }
 
 public static void main(String[] args){ jobsatu mhs = new jobsatu();
-
+mhs.x="M. Rifqi";
 System.out.println(mhs.x);
 }
 }
