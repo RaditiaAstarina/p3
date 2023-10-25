@@ -5,9 +5,6 @@ package P2;
 public class job2 { 
     String x; 
 
-public job2( ) {
-    
-}
 public job2(String nma) {
     x=nma;
 }
